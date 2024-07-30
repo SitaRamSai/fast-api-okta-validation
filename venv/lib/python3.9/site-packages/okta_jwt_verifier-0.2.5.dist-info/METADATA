@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: okta-jwt-verifier
+Version: 0.2.5
+Summary: Okta JWT Verifier
+Home-page: https://github.com/okta/okta-jwt-verifier-python
+Author: Okta, Inc.
+Author-email: devex@okta.com
+License: Apache License 2.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+License-File: LICENSE.md
+Requires-Dist: acachecontrol
+Requires-Dist: aiohttp
+Requires-Dist: python-jose
+Requires-Dist: retry2
+
+Okta JWT Verifier
+=================
+
+A Python library for OKTA JWT tokens validation
+
+Getting Started
+---------------
+``` $ pip install okta-jwt-verifier ```
+
+Look for our quickstart guide here!
+- https://github.com/okta/okta-jwt-verifier-python
+
+Okta Developer Forum
+--------------------
+
+Find out more and look for help here: https://devforum.okta.com/

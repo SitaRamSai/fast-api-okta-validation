@@ -1,0 +1,3 @@
+six<2.0
+requests
+python-jose
